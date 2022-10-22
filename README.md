@@ -7,4 +7,10 @@ Why this topic was chosen: The anime store is very in demand in Kazakhstan and n
 
 Project features: For our project, we chose the Anime Shop theme. The anime store is a kind of platform where people can buy and browse products, paraphernalia and other things according to their needs. The anime store will implement various functions up to purchase and registration, that is, authorization. The functionality of the project is: User panel.
 
-The user can register to enter the site. User can sort item to find things. The user can add anime paraphernalia to the cart, which he can watch later or now. The user can rate the product on the product information page. Admin panel. Admin can add products by category. Admin can add new product brand. Admin can add new category.
+* The user can register to enter the site.
+* User can sort item to find things.
+* The user can add anime paraphernalia to the cart, which he can watch later or now.
+* The user can rate the product on the product information page. Admin panel.
+* Admin can add products by category.
+* Admin can add new product brand.
+* Admin can add new category.

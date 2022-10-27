@@ -1,7 +1,7 @@
 # Online_Store Anime Shop
 Anime_WEB Project Description
 
-Name of the project: Anime Shop(Web platform). Project participants: Samurat Aisultan, Turgynbek Alikhan, Muratkhan Almas.
+Name of the project: Anime Shop(Web platform). Project participants: Samurat Aisultan, Turgynbek Alikhan, Muratkan Almas, Suiundik Bekzat.
 
 Why this topic was chosen: The anime store is very in demand in Kazakhstan and not only, the anime genre itself is very popular in the CIS and abroad, and to be honest around the world, everyone knows or heard about anime, in Kazakhstan there are analogues of anime products (paraphernalia, merch etc) there are not as many sites as we would like, there are not so many and they are not implemented in the best way. There are shops in the same Almaty full of them, but online shopping with a high-quality interface and site design, there is no feedback, and in this project we are going to implement it.
 
